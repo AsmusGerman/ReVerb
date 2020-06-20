@@ -30,6 +30,3 @@ yarn-error.log*
 .env.production.local
 
 /pages
-pages/*.js
-pages/about.js
-pages/index.js
